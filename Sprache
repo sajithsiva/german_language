@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sprache – language</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+        <h1>die Sprache</h1>
+
+        <section>
+            <h2>Meaning</h2>
+            <p>language</p>
+        </section>
+
+        <section>
+            <h2>Pronunciation</h2>
+            <p>ഷ്പ്രാഹ്</p>
+        </section>
+
+        <section>
+            <h2>Examples</h2>
+            <ul>
+                <li>example 1</li>
+                <li>Der Zug fährt früh am Morgen ab. → The train leaves early in the morning.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Notes</h2>
+            <p>It’s an adjective/adverb depending on usage.</p>
+            <p>Opposite of <strong>spät</strong> → late.</p>
+        </section>
+
+    </div>
+</body>
+</html>
