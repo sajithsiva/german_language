@@ -16,12 +16,12 @@ heading: die Mutter
 
 <section>
     <div class="title-sub">Gender</div>
-    <p>feminine</p>
+    <p>Femininum</p>
 </section>
 
 <section>
     <div class="title-sub">Wortart</div>
-    <p>Noun</p>
+    <p>Nomen</p>
 </section>
 
 <section>
