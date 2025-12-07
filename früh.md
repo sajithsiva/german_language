@@ -16,7 +16,7 @@ heading: früh
 
 <section>
     <div class="title-sub">Gender</div>
-    <p></p>
+    <p>none</p>
 </section>
 
 <section>
@@ -26,7 +26,7 @@ heading: früh
 
 <section>
     <div class="title-sub">Plural</div>
-    <p></p>
+    <p>none</p>
 </section>
 
 <section>
