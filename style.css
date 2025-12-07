@@ -32,3 +32,50 @@ ul {
 p, li {
     font-size: 1.05rem;
 }
+
+.title-word {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.title-meaning {
+    color: darkblue;
+    font-size: 1.5em;
+}
+
+.title-pronunciation {
+    color: green;
+    font-size: 1.5em;
+}
+
+.title-gender {
+    color: purple;
+    font-size: 1.5em;
+}
+
+.title-wortart {
+    color: purple;
+    font-size: 1.5em;
+}
+
+.title-plural {
+    color: purple;
+    font-size: 1.5em;
+}
+
+.title-opposite {
+    color: purple;
+    font-size: 1.5em;
+}
+
+.title-examples {
+    color: purple;
+    font-size: 1.5em;
+}
+
+.title-notes {
+    color: purple;
+    font-size: 1.5em;
+}
+
