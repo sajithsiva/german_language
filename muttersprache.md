@@ -26,7 +26,8 @@ heading: die Muttersprache
 
 <section>
     <div class="title-sub">Plural</div>
-    <p>Muttersprachen</p>
+    <p>die Muttersprachen</p>
+    <p>മുട്ടർ ഷ്പ്രാഹൻ</p>
 </section>
 
 <section>
