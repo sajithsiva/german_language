@@ -2,17 +2,17 @@
 
 You use gern with a verb.
 
-Structure:
+Structure:  
 Subject + verb + gern
 
 Examples:
 
-Ich esse gern Erdnüsse.
-→ I like eating peanuts.
-Ich lerne gern Deutsch.
-→ I like learning German.
-Ich trinke gern Kaffee.
-→ I like drinking coffee.
+- Ich esse gern Erdnüsse.
+- → I like eating peanuts.
+- Ich lerne gern Deutsch.
+- → I like learning German.
+- Ich trinke gern Kaffee.
+- → I like drinking coffee.
 
 👉 gern describes that you enjoy an action.
 
@@ -24,33 +24,33 @@ You use mögen with a noun.
 
 Conjugation of mögen:
 
-ich mag
-du magst
-er/sie/es mag
-wir mögen
-ihr mögt
-sie mögen
+- ich mag
+- du magst
+- er/sie/es mag
+- wir mögen
+- ihr mögt
+- sie mögen
 
 Examples:
 
-Ich mag Kaffee.
-→ I like coffee.
-Ich mag Deutsch.
-→ I like German.
-Ich mag meinen Sohn.
-→ I like my son.
+- Ich mag Kaffee.
+- → I like coffee.
+- Ich mag Deutsch.
+- → I like German.
+- Ich mag meinen Sohn.
+- → I like my son.
 
 👉 mögen is used for things or people (nouns), not actions.
 
 
 3️⃣ Very Important Difference
 
-❌ Ich mag essen.
+❌ Ich mag essen.  
 This sounds like: I like food / I like eating in general (a bit strange).
 
-✅ Ich esse gern.
+✅ Ich esse gern.  
 This clearly means: I like eating.
 
 
-If there is a verb → use gern
-If there is a noun → use mögen
+- If there is a verb → use gern
+- If there is a noun → use mögen
